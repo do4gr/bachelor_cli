@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/core-js": "^0.9.46",
+    "@types/node": "^8.10.49",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.4"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "core-js": "^3.0.1",
+    "fs": "^0.0.1-security",
+    "github-files-fetcher": "^1.6.0",
+    "inquirer": "^7.0.0",
+    "ora": "^3.4.0",
+    "ts-unwrap": "^1.1.0"
+  }
+}
