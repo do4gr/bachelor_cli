@@ -26,3 +26,5 @@ Run `$ yarn` to download dependencies, then use`$ ts-node benchmark.ts` as entry
 
 The `\workloads` folder contains files that can be modified to change the workload parameters the client uses. The cardinalities in `workload_social` and `load.sh` for the data to be created need to be the same!
 
+This prototype was tested with machines running Ubuntu 18.04 and the CLI running on Mac Os. 
+
